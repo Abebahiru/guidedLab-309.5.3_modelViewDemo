@@ -13,3 +13,5 @@ Explain how to send data from the controller to the template (HTML) using the mo
 # Example Two - ModelAndView 
 Create a model class (Pojo class) in order to see more dynamic examples.
 Create a package named model. Create a User.java class inside the model package. Remember this class is not directly related to REST.
+
+# code is in master branch
