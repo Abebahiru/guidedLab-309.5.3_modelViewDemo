@@ -15,3 +15,5 @@ Create a model class (Pojo class) in order to see more dynamic examples.
 Create a package named model. Create a User.java class inside the model package. Remember this class is not directly related to REST.
 
 # code is in master branch
+
+# http://localhost:8080/Home      <----   to demo
